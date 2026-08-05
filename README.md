@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andrés Alvir Guzmán 👋</h1>
+<h1 align="center">Hi, I'm Andrés 👋</h1>
 <h3 align="center">Software Developer &mdash; translating real-world problems into software solutions</h3>
 
 <p align="center">
